@@ -15,3 +15,6 @@
 5. 'chmod +x install.sh'
 6. `./install.sh`
 7. The script asks the following: Telegram botId, target chatroomId
+
+## Screenshot
+![Telegram message](./doc/img1.png)
